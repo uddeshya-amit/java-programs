@@ -1,1 +1,1 @@
-# java-programs
+# This repo was made for my Java lab programs.
